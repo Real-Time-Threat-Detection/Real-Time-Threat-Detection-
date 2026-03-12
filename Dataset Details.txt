@@ -1,0 +1,6 @@
+Dataset 1 : https://www.kaggle.com/datasets/ramoliyafenil/text-based-cyber-threat-detection
+Dataset 2 : https://www.kaggle.com/datasets/nsaravana/malware-detection
+
+Dataset1 classes : ['FILEPATH', 'IPV4', 'Infrastucture', 'REGISTRYKEY', 'SOFTWARE', 'TIME', 'URL', 'attack-pattern', 'campaign', 'hash', 'identity', 'location', 'malware', 'threat-actor', 'tools', 'url', 'vulnerability']
+
+Dataset2 classes : ['benign','malware']
